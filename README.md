@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio.mmohamed46.repl.co/](https://portfolio.mmohamed46.repl.co/)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Software Engineering & Web development**
 
 - 📫 How to reach me **mohamed10.m@outlook.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1LLOAR3Hm_lVv7uDxT8miVRxDZpBtAM_5hhj58Je8dY4/edit](https://docs.google.com/document/d/1LLOAR3Hm_lVv7uDxT8miVRxDZpBtAM_5hhj58Je8dY4/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1RDPoSwpTLrTeSC_3JTMb8-b8QvXwjIIz/edit](https://docs.google.com/document/d/1RDPoSwpTLrTeSC_3JTMb8-b8QvXwjIIz/edit)
 
 - ⚡ Fun fact **I think I am funny!**
 
