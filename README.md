@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Khair</h1>
 <h3 align="center">A passionate Software Engineer from Washington, D.C.</h3>
 
 - 🔭 I’m currently working on [Matching Game](https://final-project-match-game-mmohamed46.web-dev-summer-22.repl.co/)
