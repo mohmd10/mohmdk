@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Aws, React**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.mmohamed46.repl.co/](https://portfolio.mmohamed46.repl.co/)
+- 👨‍💻 All of my projects are available at [https://portfolio.mmohamed46.repl.co/](https://mohamedkhair.com/)
 
 - 💬 Ask me about **Software Engineering & Web development**
 
